@@ -4,3 +4,11 @@ cat is the main bracnh
 new branch is the new branch as branch1
 
 new update
+
+new branch is the new branch as branch2
+
+new update
+
+update 1
+
+update 2
